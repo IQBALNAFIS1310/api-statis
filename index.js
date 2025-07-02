@@ -1,7 +1,6 @@
 const express = require('express');
 const fs = require('fs');
 const app = express();
-const PORT = 3000;
 
 app.use(express.json());
 
@@ -61,6 +60,7 @@ app.delete('/users/:id', (req, res) => {
 });
 
 // Jalankan server
-app.listen(PORT, () => {
-    console.log(`API dengan file berjalan di http://localhost:${PORT}`);
+const PORT = process.env.PORT || 3000;
+app.listen(PORT, '0.0.0.0', () => {
+    console.log(`API berjalan di http://0.0.0.0:${PORT}`);
 });
