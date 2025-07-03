@@ -76,8 +76,7 @@ app.delete('/users/:id', (req, res) => {
 });
 
 // Jalankan server di port dari env atau 3000 (fallback lokal)
-const PORT = process.env.PORT || 3000;
+const PORT = 25965;
 app.listen(PORT, '0.0.0.0', () => {
-    console.log("PORT dari env:", process.env.PORT);
     console.log(`✅ API berjalan di http://0.0.0.0:${PORT}`);
 });
