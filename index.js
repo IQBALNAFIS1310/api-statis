@@ -1,7 +1,10 @@
 const express = require('express');
 const fs = require('fs');
+const cors = require('cors');//cors
 const app = express();
 
+//ini cors
+app.use(cors());
 app.use(express.json());
 
 const filePath = './data.json';
