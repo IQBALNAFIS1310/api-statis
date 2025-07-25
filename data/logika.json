@@ -1,0 +1,1318 @@
+[
+
+        {
+            "id": 1,
+            "question": "Jika semua kucing adalah hewan, dan semua hewan memiliki sel, maka apakah semua kucing memiliki sel?",
+            "answers": {
+                "answer_a": "Ya",
+                "answer_b": "Tidak",
+                "answer_c": "Tergantung jenis kucingnya",
+                "answer_d": "Tidak dapat dipastikan",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Jika A adalah B dan B adalah C, maka A adalah C. Ini adalah bentuk silogisme.",
+            "tags": [{ "name": "Logika" }],
+            "category": "Logika",
+            "difficulty": "Easy"
+        },
+        {
+            "id": 2,
+            "question": "Jika hari ini adalah Rabu, maka 3 hari sebelum 2 hari setelah hari ini adalah hari apa?",
+            "answers": {
+                "answer_a": "Selasa",
+                "answer_b": "Kamis",
+                "answer_c": "Sabtu",
+                "answer_d": "Rabu",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "true",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "2 hari setelah Rabu adalah Jumat, 3 hari sebelum Jumat adalah Selasa.",
+            "tags": [{ "name": "Logika" }],
+            "category": "Logika",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 3,
+            "question": "Budi lebih tinggi dari Andi, dan Andi lebih tinggi dari Rudi. Siapa yang paling pendek?",
+            "answers": {
+                "answer_a": "Budi",
+                "answer_b": "Andi",
+                "answer_c": "Rudi",
+                "answer_d": "Tidak diketahui",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "true",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Jika A > B dan B > C, maka A > B > C, sehingga C paling pendek.",
+            "tags": [{ "name": "Logika" }],
+            "category": "Logika",
+            "difficulty": "Easy"
+        },
+        {
+            "id": 4,
+            "question": "Jika semua siswa lulus ujian, dan Andi adalah siswa, maka pernyataan berikut yang benar adalah:",
+            "answers": {
+                "answer_a": "Andi pasti lulus ujian",
+                "answer_b": "Andi belum tentu lulus",
+                "answer_c": "Andi tidak lulus",
+                "answer_d": "Ujiannya dibatalkan",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Semua siswa lulus → Andi juga lulus karena dia siswa.",
+            "tags": [{ "name": "Logika" }],
+            "category": "Logika",
+            "difficulty": "Easy"
+        },
+        {
+            "id": 5,
+            "question": "Pernyataan: Semua A adalah B. Pernyataan mana yang pasti benar?",
+            "answers": {
+                "answer_a": "Semua B adalah A",
+                "answer_b": "Sebagian B adalah A",
+                "answer_c": "Tidak semua A adalah B",
+                "answer_d": "Semua A termasuk dalam B",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "true",
+                "answer_c_correct": "false",
+                "answer_d_correct": "true",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Jika semua A adalah B, maka sebagian B adalah A juga benar.",
+            "tags": [{ "name": "Logika" }],
+            "category": "Logika",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 6,
+            "question": "Jika 5 orang dapat menyelesaikan pekerjaan dalam 10 hari, berapa hari yang dibutuhkan jika hanya 1 orang yang mengerjakan?",
+            "answers": {
+                "answer_a": "50 hari",
+                "answer_b": "10 hari",
+                "answer_c": "15 hari",
+                "answer_d": "5 hari",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "1 orang = 5x waktu → 10 × 5 = 50 hari.",
+            "tags": [{ "name": "Logika" }],
+            "category": "Logika",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 7,
+            "question": "Jika angka genap selalu habis dibagi 2, maka 18 termasuk?",
+            "answers": {
+                "answer_a": "Bilangan ganjil",
+                "answer_b": "Bilangan prima",
+                "answer_c": "Bilangan genap",
+                "answer_d": "Tidak diketahui",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "true",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "18 habis dibagi 2, berarti genap.",
+            "tags": [{ "name": "Logika" }],
+            "category": "Logika",
+            "difficulty": "Easy"
+        },
+        {
+            "id": 8,
+            "question": "Apa lawan dari pernyataan: 'Jika hujan, maka tanah basah'?",
+            "answers": {
+                "answer_a": "Jika tidak hujan, maka tanah tidak basah",
+                "answer_b": "Jika tanah basah, maka hujan",
+                "answer_c": "Jika tanah tidak basah, maka tidak hujan",
+                "answer_d": "Jika hujan, maka tanah kering",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "true",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Lawan (kontraposisi) dari 'Jika A maka B' adalah 'Jika tidak B maka tidak A'.",
+            "tags": [{ "name": "Logika" }],
+            "category": "Logika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 9,
+            "question": "Dari pilihan berikut, mana yang merupakan contoh silogisme?",
+            "answers": {
+                "answer_a": "Semua manusia bernapas. Budi adalah manusia. Jadi Budi bernapas.",
+                "answer_b": "Budi suka es krim dan suka coklat.",
+                "answer_c": "Jika Budi lapar, dia makan.",
+                "answer_d": "Budi pergi ke pasar lalu ke sekolah.",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Silogisme adalah penarikan kesimpulan logis dari dua premis.",
+            "tags": [{ "name": "Logika" }],
+            "category": "Logika",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 10,
+            "question": "Manakah dari berikut ini yang merupakan pernyataan tautologi?",
+            "answers": {
+                "answer_a": "Hari ini hujan atau tidak hujan",
+                "answer_b": "Jika aku belajar, maka aku akan lulus",
+                "answer_c": "Semua manusia pintar",
+                "answer_d": "Aku makan nasi kemarin",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Tautologi adalah pernyataan yang selalu benar, seperti 'A atau tidak A'.",
+            "tags": [{ "name": "Logika" }],
+            "category": "Logika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 11,
+            "question": "Jika semua A adalah B, dan semua B adalah C, maka dapat disimpulkan bahwa...",
+            "answers": {
+                "answer_a": "Semua A adalah C",
+                "answer_b": "Semua C adalah B",
+                "answer_c": "Beberapa A bukan C",
+                "answer_d": "Semua C adalah A",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Silogisme: jika semua A adalah B, dan semua B adalah C, maka semua A adalah C.",
+            "tags": [{ "name": "Logika" }],
+            "category": "Logika",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 12,
+            "question": "Jika 3 anak bisa menyelesaikan sebuah tugas dalam 6 hari, berapa hari yang diperlukan oleh 6 anak untuk menyelesaikan tugas yang sama, jika mereka bekerja dengan efisiensi yang sama?",
+            "answers": {
+                "answer_a": "3 hari",
+                "answer_b": "6 hari",
+                "answer_c": "9 hari",
+                "answer_d": "12 hari",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Semakin banyak anak, semakin cepat tugas selesai. Jadi, 6 anak memerlukan separuh waktu dari 3 anak.",
+            "tags": [{ "name": "Logika" }],
+            "category": "Logika",
+            "difficulty": "Easy"
+        },
+        {
+            "id": 13,
+            "question": "Tono lebih tinggi dari Budi, dan Budi lebih tinggi dari Anto. Siapakah yang paling pendek?",
+            "answers": {
+                "answer_a": "Tono",
+                "answer_b": "Budi",
+                "answer_c": "Anto",
+                "answer_d": "Tidak dapat ditentukan",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "true",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Anto < Budi < Tono, maka Anto adalah yang paling pendek.",
+            "tags": [{ "name": "Logika" }],
+            "category": "Logika",
+            "difficulty": "Easy"
+        },
+        {
+            "id": 14,
+            "question": "Sebuah pernyataan: Jika hujan turun, maka jalanan basah. Jalanan tidak basah. Maka dapat disimpulkan...",
+            "answers": {
+                "answer_a": "Hujan tidak turun",
+                "answer_b": "Hujan turun",
+                "answer_c": "Jalanan kering",
+                "answer_d": "Tidak dapat disimpulkan",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Modus tollens: Jika P → Q dan ~Q, maka ~P.",
+            "tags": [{ "name": "Logika" }],
+            "category": "Logika",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 15,
+            "question": "Angka manakah yang melengkapi pola berikut: 2, 4, 8, 16, ...?",
+            "answers": {
+                "answer_a": "18",
+                "answer_b": "24",
+                "answer_c": "32",
+                "answer_d": "64",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "true",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Pola berlipat ganda: dikali 2 setiap langkah. Jadi 16 × 2 = 32.",
+            "tags": [{ "name": "Logika" }],
+            "category": "Logika",
+            "difficulty": "Easy"
+        },
+        {
+            "id": 16,
+            "question": "Pernyataan: Semua siswa belajar matematika. Dodi adalah siswa. Maka...",
+            "answers": {
+                "answer_a": "Dodi belajar matematika",
+                "answer_b": "Dodi tidak suka matematika",
+                "answer_c": "Dodi guru matematika",
+                "answer_d": "Tidak dapat disimpulkan",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Karena Dodi termasuk siswa dan semua siswa belajar matematika, maka Dodi juga belajar matematika.",
+            "tags": [{ "name": "Logika" }],
+            "category": "Logika",
+            "difficulty": "Easy"
+        },
+        {
+            "id": 17,
+            "question": "Jika A lebih tua dari B, dan B lebih tua dari C, siapa yang paling muda?",
+            "answers": {
+                "answer_a": "A",
+                "answer_b": "B",
+                "answer_c": "C",
+                "answer_d": "Tidak dapat disimpulkan",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "true",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Urutannya: A > B > C, maka C adalah yang paling muda.",
+            "tags": [{ "name": "Logika" }],
+            "category": "Logika",
+            "difficulty": "Easy"
+        },
+        {
+            "id": 18,
+            "question": "Seseorang berkata, 'Saya selalu berbohong.' Apakah pernyataan ini benar?",
+            "answers": {
+                "answer_a": "Benar",
+                "answer_b": "Salah",
+                "answer_c": "Paradoks",
+                "answer_d": "Tidak dapat ditentukan",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "true",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Ini adalah paradoks kebohongan. Jika benar, maka dia berbohong, tapi jika berbohong, maka pernyataan itu salah.",
+            "tags": [{ "name": "Logika" }],
+            "category": "Logika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 19,
+            "question": "Manakah dari bentuk pernyataan berikut yang ekuivalen dengan 'Jika tidak A maka B'?",
+            "answers": {
+                "answer_a": "Jika B maka tidak A",
+                "answer_b": "Jika A maka tidak B",
+                "answer_c": "Jika tidak B maka A",
+                "answer_d": "Jika A maka B",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "true",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Ekuivalensi logika: ¬A → B ekuivalen dengan ¬B → A.",
+            "tags": [{ "name": "Logika" }],
+            "category": "Logika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 20,
+            "question": "Diberikan bahwa: Jika p maka q, dan p benar. Maka kesimpulannya?",
+            "answers": {
+                "answer_a": "q benar",
+                "answer_b": "q salah",
+                "answer_c": "p salah",
+                "answer_d": "tidak dapat ditentukan",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Modus ponens: Jika p → q dan p benar, maka q benar.",
+            "tags": [{ "name": "Logika" }],
+            "category": "Logika",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 21,
+            "question": "Jika semua burung bisa terbang dan merpati adalah burung, maka?",
+            "answers": {
+                "answer_a": "Merpati tidak bisa terbang",
+                "answer_b": "Merpati bisa terbang",
+                "answer_c": "Semua yang bisa terbang adalah merpati",
+                "answer_d": "Burung tidak bisa terbang",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "true",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Premis menyebutkan semua burung bisa terbang, dan merpati adalah burung, maka merpati bisa terbang.",
+            "tags": [{ "name": "Logika" }],
+            "category": "Logika",
+            "difficulty": "Easy"
+        },
+        {
+            "id": 22,
+            "question": "Jika 5 orang dapat menyelesaikan pekerjaan dalam 10 hari, berapa hari dibutuhkan oleh 10 orang dengan efisiensi sama?",
+            "answers": {
+                "answer_a": "2 hari",
+                "answer_b": "5 hari",
+                "answer_c": "10 hari",
+                "answer_d": "20 hari",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "true",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Jika pekerja dua kali lebih banyak, waktu akan menjadi setengah.",
+            "tags": [{ "name": "Logika" }],
+            "category": "Logika",
+            "difficulty": "Easy"
+        },
+        {
+            "id": 23,
+            "question": "Rina lebih tua dari Deni, dan Deni lebih muda dari Sita. Siapa yang termuda?",
+            "answers": {
+                "answer_a": "Rina",
+                "answer_b": "Deni",
+                "answer_c": "Sita",
+                "answer_d": "Tidak bisa ditentukan",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "true",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Dari pernyataan, Deni lebih muda dari keduanya.",
+            "tags": [{ "name": "Logika" }],
+            "category": "Logika",
+            "difficulty": "Easy"
+        },
+        {
+            "id": 24,
+            "question": "Mana yang tidak termasuk dalam pola berikut: 2, 4, 8, 16, 20, 32?",
+            "answers": {
+                "answer_a": "4",
+                "answer_b": "16",
+                "answer_c": "20",
+                "answer_d": "32",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "true",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Pola kelipatan dua, kecuali angka 20 yang bukan hasil pangkat dua.",
+            "tags": [{ "name": "Logika" }],
+            "category": "Logika",
+            "difficulty": "Easy"
+        },
+        {
+            "id": 25,
+            "question": "Jika A = B, dan B = C, maka hubungan A dengan C adalah?",
+            "answers": {
+                "answer_a": "Tidak berkaitan",
+                "answer_b": "A lebih besar dari C",
+                "answer_c": "A sama dengan C",
+                "answer_d": "A lebih kecil dari C",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "true",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Jika A = B dan B = C, maka A = C (transitivitas).",
+            "tags": [{ "name": "Logika" }],
+            "category": "Logika",
+            "difficulty": "Easy"
+        },
+        {
+            "id": 26,
+            "question": "Jika hari ini Senin, maka 100 hari lagi adalah hari?",
+            "answers": {
+                "answer_a": "Rabu",
+                "answer_b": "Kamis",
+                "answer_c": "Jumat",
+                "answer_d": "Sabtu",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "true",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "100 mod 7 = 2 → Senin + 2 hari = Rabu.",
+            "tags": [{ "name": "Logika" }],
+            "category": "Logika",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 27,
+            "question": "Pola: A, C, F, J, O, ..., huruf selanjutnya?",
+            "answers": {
+                "answer_a": "Q",
+                "answer_b": "T",
+                "answer_c": "U",
+                "answer_d": "V",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "true",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Selisih huruf: +2, +3, +4, +5, dst. Maka selanjutnya +6 dari O adalah T.",
+            "tags": [{ "name": "Logika" }],
+            "category": "Logika",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 28,
+            "question": "Jika setiap segitiga memiliki 3 sisi dan 3 sudut, berapa total sisi dari 5 segitiga?",
+            "answers": {
+                "answer_a": "10",
+                "answer_b": "15",
+                "answer_c": "18",
+                "answer_d": "20",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "true",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "5 × 3 sisi = 15 sisi.",
+            "tags": [{ "name": "Logika" }],
+            "category": "Logika",
+            "difficulty": "Easy"
+        },
+        {
+            "id": 29,
+            "question": "Jika 2x = 10, maka nilai dari x + 3 adalah?",
+            "answers": {
+                "answer_a": "6",
+                "answer_b": "7",
+                "answer_c": "8",
+                "answer_d": "9",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "true",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "x = 5, jadi x + 3 = 8.",
+            "tags": [{ "name": "Logika" }],
+            "category": "Logika",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 30,
+            "question": "Manakah berikut ini yang bukan bilangan prima?",
+            "answers": {
+                "answer_a": "2",
+                "answer_b": "3",
+                "answer_c": "5",
+                "answer_d": "9",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "true",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "9 bisa dibagi oleh 3, jadi bukan bilangan prima.",
+            "tags": [{ "name": "Logika" }],
+            "category": "Logika",
+            "difficulty": "Easy"
+        },
+        {
+            "id": 31,
+            "question": "Jika 5 mesin memproduksi 5 barang dalam 5 menit, berapa banyak barang yang diproduksi 100 mesin dalam 100 menit?",
+            "answers": {
+                "answer_a": "100",
+                "answer_b": "2000",
+                "answer_c": "1000",
+                "answer_d": "400"
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "true",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false"
+            },
+            "explanation": "Satu mesin menghasilkan 1 barang dalam 5 menit. Dalam 100 menit, 1 mesin menghasilkan 20 barang, maka 100 mesin menghasilkan 2000 barang.",
+            "tags": [{ "name": "Logika" }],
+            "category": "Logika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 32,
+            "question": "Ali lebih tua dari Budi. Budi lebih tua dari Citra. Siapa yang paling muda?",
+            "answers": {
+                "answer_a": "Ali",
+                "answer_b": "Budi",
+                "answer_c": "Citra",
+                "answer_d": "Tidak dapat ditentukan"
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "true",
+                "answer_d_correct": "false"
+            },
+            "explanation": "Citra lebih muda dari Budi dan Ali.",
+            "tags": [{ "name": "Logika" }],
+            "category": "Logika",
+            "difficulty": "Easy"
+        },
+        {
+            "id": 33,
+            "question": "Rina mempunyai 3 saudara laki-laki dan masing-masing mempunyai 1 saudara perempuan. Berapa banyak saudara perempuan yang dimiliki seluruh saudara laki-laki Rina?",
+            "answers": {
+                "answer_a": "1",
+                "answer_b": "3",
+                "answer_c": "4",
+                "answer_d": "Tidak bisa ditentukan"
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false"
+            },
+            "explanation": "Semua saudara laki-laki itu adalah saudara kandung, jadi hanya ada satu saudara perempuan yaitu Rina.",
+            "tags": [{ "name": "Logika" }],
+            "category": "Logika",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 34,
+            "question": "Seseorang berlari di lintasan melingkar dan kembali ke titik awal setelah berlari sejauh 400 meter. Berapa jarak bersih dari titik awal?",
+            "answers": {
+                "answer_a": "400 meter",
+                "answer_b": "0 meter",
+                "answer_c": "200 meter",
+                "answer_d": "Tidak dapat ditentukan"
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "true",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false"
+            },
+            "explanation": "Karena kembali ke titik awal, maka jarak bersih adalah 0 meter.",
+            "tags": [{ "name": "Logika" }],
+            "category": "Logika",
+            "difficulty": "Easy"
+        },
+        {
+            "id": 35,
+            "question": "Dalam sebuah lomba lari, kamu menyalip orang di posisi kedua. Sekarang kamu berada di posisi?",
+            "answers": {
+                "answer_a": "Pertama",
+                "answer_b": "Kedua",
+                "answer_c": "Ketiga",
+                "answer_d": "Keempat"
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "true",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false"
+            },
+            "explanation": "Jika kamu menyalip posisi kedua, maka kamu berada di posisi kedua.",
+            "tags": [{ "name": "Logika" }],
+            "category": "Logika",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 36,
+            "question": "Sebuah jam menunjukkan pukul 3.00. Berapa derajat sudut antara jarum pendek dan jarum panjang?",
+            "answers": {
+                "answer_a": "90 derajat",
+                "answer_b": "180 derajat",
+                "answer_c": "120 derajat",
+                "answer_d": "75 derajat"
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false"
+            },
+            "explanation": "Setiap jam adalah 30 derajat, sehingga pukul 3.00 = 90 derajat.",
+            "tags": [{ "name": "Logika" }],
+            "category": "Logika",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 37,
+            "question": "Suatu toko memberi diskon 20% dari harga awal. Jika harga awal Rp50.000, berapa harga setelah diskon?",
+            "answers": {
+                "answer_a": "Rp40.000",
+                "answer_b": "Rp45.000",
+                "answer_c": "Rp30.000",
+                "answer_d": "Rp50.000"
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false"
+            },
+            "explanation": "20% dari 50.000 adalah 10.000, maka 50.000 - 10.000 = 40.000.",
+            "tags": [{ "name": "Logika" }],
+            "category": "Logika",
+            "difficulty": "Easy"
+        },
+        {
+            "id": 38,
+            "question": "Jika angka ganjil dijumlahkan dengan angka genap, hasilnya selalu?",
+            "answers": {
+                "answer_a": "Ganjil",
+                "answer_b": "Genap",
+                "answer_c": "Tidak tentu",
+                "answer_d": "Bilangan prima"
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false"
+            },
+            "explanation": "Ganjil + Genap selalu ganjil.",
+            "tags": [{ "name": "Logika" }],
+            "category": "Logika",
+            "difficulty": "Easy"
+        },
+        {
+            "id": 39,
+            "question": "Jika hari ini Jumat, 10 hari lagi adalah hari apa?",
+            "answers": {
+                "answer_a": "Senin",
+                "answer_b": "Minggu",
+                "answer_c": "Selasa",
+                "answer_d": "Kamis"
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false"
+            },
+            "explanation": "10 mod 7 = 3, maka 3 hari setelah Jumat adalah Senin.",
+            "tags": [{ "name": "Logika" }],
+            "category": "Logika",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 40,
+            "question": "Satu ember bisa menampung 10 liter air. Berapa ember yang dibutuhkan untuk menampung 150 liter air?",
+            "answers": {
+                "answer_a": "15",
+                "answer_b": "10",
+                "answer_c": "20",
+                "answer_d": "25"
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false"
+            },
+            "explanation": "150 ÷ 10 = 15 ember.",
+            "tags": [{ "name": "Logika" }],
+            "category": "Logika",
+            "difficulty": "Easy"
+        },
+        {
+            "id": 41,
+            "question": "Jika semua A adalah B, dan semua B adalah C, maka?",
+            "answers": {
+                "answer_a": "Semua A adalah C",
+                "answer_b": "Semua C adalah A",
+                "answer_c": "Tidak ada hubungan antara A dan C",
+                "answer_d": "C bukan bagian dari A",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Jika A adalah B, dan B adalah C, maka A juga adalah C.",
+            "tags": [{ "name": "Logika" }],
+            "category": "Logika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 42,
+            "question": "Jika hari ini adalah Selasa dan 50 hari kemudian juga Selasa, maka hari ini adalah?",
+            "answers": {
+                "answer_a": "Selasa",
+                "answer_b": "Kamis",
+                "answer_c": "Sabtu",
+                "answer_d": "Senin",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "50 mod 7 = 1, maka satu hari setelah Senin adalah Selasa.",
+            "tags": [{ "name": "Logika" }],
+            "category": "Logika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 43,
+            "question": "Dalam suatu kode rahasia, jika KODE = 4315, maka DEKO =?",
+            "answers": {
+                "answer_a": "5143",
+                "answer_b": "5314",
+                "answer_c": "1543",
+                "answer_d": "5413",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "DEKO adalah pembalikan posisi huruf dari KODE.",
+            "tags": [{ "name": "Logika" }],
+            "category": "Logika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 44,
+            "question": "Jika 3 * 4 = 25 dan 5 * 2 = 27, maka 6 * 3 = ?",
+            "answers": {
+                "answer_a": "39",
+                "answer_b": "33",
+                "answer_c": "36",
+                "answer_d": "42",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Pattern: a * b = a x b + a + b; 6x3 = 18 + 6 + 3 = 27.",
+            "tags": [{ "name": "Logika" }],
+            "category": "Logika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 45,
+            "question": "Mana yang merupakan penyataan logika salah?",
+            "answers": {
+                "answer_a": "Jika hujan, maka jalan basah.",
+                "answer_b": "Jika tidak hujan, maka jalan pasti basah.",
+                "answer_c": "Jika matahari terbit, maka hari terang.",
+                "answer_d": "Jika listrik padam, maka lampu mati.",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "true",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Tidak hujan bukan berarti jalan pasti basah.",
+            "tags": [{ "name": "Logika" }],
+            "category": "Logika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 46,
+            "question": "Jika semua bunga adalah tanaman, dan semua tanaman butuh air, maka bunga?",
+            "answers": {
+                "answer_a": "Tidak butuh air",
+                "answer_b": "Butuh air",
+                "answer_c": "Bukan tanaman",
+                "answer_d": "Semua jawaban salah",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "true",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Bunga adalah tanaman, dan tanaman butuh air, maka bunga butuh air.",
+            "tags": [{ "name": "Logika" }],
+            "category": "Logika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 47,
+            "question": "Jika kode A=1, B=2, ..., Z=26, maka nilai dari kata 'LOGIKA' adalah?",
+            "answers": {
+                "answer_a": "61",
+                "answer_b": "54",
+                "answer_c": "52",
+                "answer_d": "60",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "L=12, O=15, G=7, I=9, K=11, A=1; Total = 61.",
+            "tags": [{ "name": "Logika" }],
+            "category": "Logika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 48,
+            "question": "Jika 2 + 3 = 13 dan 3 + 4 = 25, maka 4 + 5 = ?",
+            "answers": {
+                "answer_a": "41",
+                "answer_b": "29",
+                "answer_c": "35",
+                "answer_d": "33",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "2+3 = 5 → 5² + 2 = 27; 4+5 = 9 → 9² + 4 = 85. Ada pola logika lanjutan.",
+            "tags": [{ "name": "Logika" }],
+            "category": "Logika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 49,
+            "question": "Jika pola angka 3, 6, 12, 24, ..., maka angka selanjutnya adalah?",
+            "answers": {
+                "answer_a": "48",
+                "answer_b": "36",
+                "answer_c": "60",
+                "answer_d": "45",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Pola dikali 2 setiap langkah: 3×2=6, 6×2=12, dst. Jawaban: 24×2 = 48.",
+            "tags": [{ "name": "Logika" }],
+            "category": "Logika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 50,
+            "question": "Dalam suatu kode, jika BUKU = CVLV, maka MEJA = ?",
+            "answers": {
+                "answer_a": "NFKB",
+                "answer_b": "NFIB",
+                "answer_c": "NDIZ",
+                "answer_d": "NDJB",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Setiap huruf digeser +1 sesuai abjad.",
+            "tags": [{ "name": "Logika" }],
+            "category": "Logika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 51,
+            "question": "Jika 5 orang menyelesaikan 5 pekerjaan dalam 5 menit, maka 1 orang menyelesaikan 1 pekerjaan dalam berapa menit?",
+            "answers": {
+                "answer_a": "1 menit",
+                "answer_b": "5 menit",
+                "answer_c": "25 menit",
+                "answer_d": "10 menit"
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "true",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false"
+            },
+            "explanation": "Jika 5 orang menyelesaikan 5 pekerjaan dalam 5 menit, maka 1 orang menyelesaikan 1 pekerjaan tetap dalam 5 menit.",
+            "tags": [{ "name": "Logika" }],
+            "category": "Logika",
+            "difficulty": "Easy"
+        },
+        {
+            "id": 52,
+            "question": "Sebuah jam menunjukkan pukul 3:15. Sudut antara jarum jam dan jarum menit adalah:",
+            "answers": {
+                "answer_a": "0 derajat",
+                "answer_b": "7.5 derajat",
+                "answer_c": "45 derajat",
+                "answer_d": "90 derajat"
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "true",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false"
+            },
+            "explanation": "Jarum jam bergerak 0.5° per menit, jadi pukul 3:15, sudut = |(3×30 + 7.5) − (15×6)| = |97.5 − 90| = 7.5°.",
+            "tags": [{ "name": "Logika" }],
+            "category": "Logika",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 53,
+            "question": "Pola bilangan: 2, 6, 12, 20, 30, ... Bilangan berikutnya adalah?",
+            "answers": {
+                "answer_a": "42",
+                "answer_b": "38",
+                "answer_c": "44",
+                "answer_d": "48"
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false"
+            },
+            "explanation": "Pola: +4, +6, +8, +10, ... jadi setelah +10 (dari 30), selanjutnya +12 → 42.",
+            "tags": [{ "name": "Logika" }],
+            "category": "Logika",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 54,
+            "question": "Jika 'KATA' dikodekan menjadi 'MCRC', maka 'BAJU' menjadi?",
+            "answers": {
+                "answer_a": "DCJW",
+                "answer_b": "DCJV",
+                "answer_c": "DBIW",
+                "answer_d": "DBHV"
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false"
+            },
+            "explanation": "Pola: setiap huruf dinaikkan +2 huruf. B→D, A→C, J→L, U→W. Tapi dalam soal, pola K→M, A→C, T→R, A→C.",
+            "tags": [{ "name": "Logika" }],
+            "category": "Logika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 55,
+            "question": "Andi adalah anak kedua dari tiga bersaudara. Jika adiknya bernama Budi dan kakaknya bernama Citra, maka siapa yang paling tua?",
+            "answers": {
+                "answer_a": "Andi",
+                "answer_b": "Budi",
+                "answer_c": "Citra",
+                "answer_d": "Tidak diketahui"
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "true",
+                "answer_d_correct": "false"
+            },
+            "explanation": "Karena Andi anak kedua, maka kakaknya (anak pertama) adalah yang paling tua, yaitu Citra.",
+            "tags": [{ "name": "Logika" }],
+            "category": "Logika",
+            "difficulty": "Easy"
+        }
+    ]

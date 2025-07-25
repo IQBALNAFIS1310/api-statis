@@ -1,0 +1,3733 @@
+[
+        {
+            "id": 1,
+            "question": "Jika f(x) = 2x² - 3x + 5, maka nilai f(2) adalah...",
+            "answers": {
+                "answer_a": "7",
+                "answer_b": "9",
+                "answer_c": "11",
+                "answer_d": "15",
+                "answer_e": "17",
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "true",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "f(2) = 2(2)² - 3(2) + 5 = 8 - 6 + 5 = 7",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 2,
+            "question": "Sebuah tabung memiliki jari-jari 7 cm dan tinggi 10 cm. Volume tabung tersebut adalah...",
+            "answers": {
+                "answer_a": "1.540 cm³",
+                "answer_b": "1.470 cm³",
+                "answer_c": "1.540 ml",
+                "answer_d": "1.470 ml",
+                "answer_e": "1.500 cm³",
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Volume = πr²t = 22/7 × 7² × 10 = 1.540 cm³",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 3,
+            "question": "Selesaikan: 2x - 5 = 3x + 1",
+            "answers": {
+                "answer_a": "x = -6",
+                "answer_b": "x = 6",
+                "answer_c": "x = -1",
+                "answer_d": "x = 1",
+                "answer_e": "x = -3",
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "2x - 5 = 3x + 1 → -5 - 1 = 3x - 2x → x = -6",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 4,
+            "question": "Jika log x = 2, maka nilai dari x adalah...",
+            "answers": {
+                "answer_a": "10",
+                "answer_b": "50",
+                "answer_c": "100",
+                "answer_d": "200",
+                "answer_e": "1.000",
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "true",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "log x = 2 → x = 10² = 100",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 5,
+            "question": "Akar-akar dari persamaan kuadrat x² - 5x + 6 = 0 adalah...",
+            "answers": {
+                "answer_a": "x = 2 atau x = 3",
+                "answer_b": "x = 1 atau x = 6",
+                "answer_c": "x = -2 atau x = -3",
+                "answer_d": "x = 3 atau x = 4",
+                "answer_e": "x = 2 atau x = 4",
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "x² - 5x + 6 = (x - 2)(x - 3), jadi x = 2 atau x = 3",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 6,
+            "question": "Jika sin A = 3/5 dan sudut A berada di kuadran I, maka cos A adalah...",
+            "answers": {
+                "answer_a": "4/5",
+                "answer_b": "5/4",
+                "answer_c": "√34/5",
+                "answer_d": "√16/5",
+                "answer_e": "2/5",
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Jika sin A = 3/5, maka cos A = √(1 - sin² A) = √(1 - 9/25) = √(16/25) = 4/5",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 7,
+            "question": "Turunan pertama dari fungsi f(x) = 3x² - 4x + 1 adalah...",
+            "answers": {
+                "answer_a": "6x - 4",
+                "answer_b": "6x + 4",
+                "answer_c": "3x - 4",
+                "answer_d": "6x - 1",
+                "answer_e": "6x + 1",
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "f'(x) = d/dx (3x² - 4x + 1) = 6x - 4",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 8,
+            "question": "Persamaan garis yang melalui titik (2,3) dan (4,7) adalah...",
+            "answers": {
+                "answer_a": "y = 2x - 1",
+                "answer_b": "y = 2x + 1",
+                "answer_c": "y = x + 1",
+                "answer_d": "y = 3x - 2",
+                "answer_e": "y = 2x + 3",
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_b_correct": "true",
+                "answer_a_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Gradien m = (7-3)/(4-2) = 2, lalu y - 3 = 2(x - 2) → y = 2x -1",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 9,
+            "question": "Diketahui deret aritmetika: 5, 8, 11, ..., suku ke-10 dari deret tersebut adalah...",
+            "answers": {
+                "answer_a": "32",
+                "answer_b": "35",
+                "answer_c": "38",
+                "answer_d": "41",
+                "answer_e": "44",
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_c_correct": "true",
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Un = a + (n-1)d = 5 + (10-1)*3 = 5 + 27 = 32",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 10,
+            "question": "Jika a dan b adalah akar-akar persamaan x² - 5x + 6 = 0, maka nilai dari a² + b² adalah...",
+            "answers": {
+                "answer_a": "25",
+                "answer_b": "13",
+                "answer_c": "11",
+                "answer_d": "20",
+                "answer_e": "17",
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_c_correct": "true",
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "a + b = 5, ab = 6 → a² + b² = (a + b)² - 2ab = 25 - 12 = 13",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 11,
+            "question": "Nilai dari log₉ 81 adalah...",
+            "answers": {
+                "answer_a": "2",
+                "answer_b": "3",
+                "answer_c": "4",
+                "answer_d": "1.5",
+                "answer_e": "1",
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "log₉81 = log₃²(3⁴) = 4 / 2 = 2",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 12,
+            "question": "Jika f(x) = 2x² - 3x dan g(x) = x + 1, maka (f∘g)(x) adalah...",
+            "answers": {
+                "answer_a": "2x² + x - 1",
+                "answer_b": "2x² - 3x + 2",
+                "answer_c": "2x² + x + 2",
+                "answer_d": "2x² + x - 2",
+                "answer_e": "2x² + x - 3",
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_d_correct": "true",
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "(f∘g)(x) = f(g(x)) = f(x+1) = 2(x+1)² - 3(x+1) = 2x² + 4x + 2 - 3x - 3 = 2x² + x - 1",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 13,
+            "question": "Limit dari (x² - 9)/(x - 3) saat x mendekati 3 adalah...",
+            "answers": {
+                "answer_a": "6",
+                "answer_b": "0",
+                "answer_c": "3",
+                "answer_d": "9",
+                "answer_e": "tidak ada",
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "(x² - 9)/(x - 3) = ((x - 3)(x + 3))/(x - 3) = x + 3 → x → 3: 3 + 3 = 6",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 14,
+            "question": "Suku ke-n dari deret aritmetika 4, 7, 10, ... adalah...",
+            "answers": {
+                "answer_a": "3n + 1",
+                "answer_b": "3n + 4",
+                "answer_c": "4n + 3",
+                "answer_d": "3n + 7",
+                "answer_e": "n + 3",
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Un = a + (n - 1)d = 4 + (n - 1)*3 = 3n + 1",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 15,
+            "question": "Nilai maksimum dari fungsi f(x) = -x² + 6x - 5 adalah...",
+            "answers": {
+                "answer_a": "4",
+                "answer_b": "5",
+                "answer_c": "9",
+                "answer_d": "10",
+                "answer_e": "11",
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_c_correct": "true",
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "x = -b/2a = -6/(-2) = 3 → f(3) = -(3)² + 6×3 - 5 = -9 + 18 - 5 = 4",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 16,
+            "question": "Jika vektor a = (2,3) dan vektor b = (4,1), maka a • b adalah...",
+            "answers": {
+                "answer_a": "8",
+                "answer_b": "11",
+                "answer_c": "10",
+                "answer_d": "12",
+                "answer_e": "13",
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_d_correct": "true",
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "a • b = (2×4) + (3×1) = 8 + 3 = 11",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 17,
+            "question": "Jika ( x^2 - 5x + 6 = 0 ), maka nilai x adalah?",
+            "answers": {
+                "answer_a": "x = 1 atau x = 6",
+                "answer_b": "x = 2 atau x = 3",
+                "answer_c": "x = -2 atau x = -3",
+                "answer_d": "x = 5 atau x = 6",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "true",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Faktorisasi: (x-2)(x-3) = 0, jadi x = 2 atau 3.",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 18,
+            "question": "Diketahui fungsi ( f(x) = 3x - 4 ). Nilai dari ( f^{-1}(5) ) adalah?",
+            "answers": {
+                "answer_a": "1/3",
+                "answer_b": "3",
+                "answer_c": "4",
+                "answer_d": "5",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "true",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "f⁻¹(x) = (x + 4)/3. Maka f⁻¹(5) = (5+4)/3 = 3.",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 19,
+            "question": "Sebuah barisan geometri memiliki suku pertama 2 dan rasio 3. Suku ke-4 barisan tersebut adalah?",
+            "answers": {
+                "answer_a": "18",
+                "answer_b": "54",
+                "answer_c": "162",
+                "answer_d": "486",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "true",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Un = ar^(n-1) = 2×3³ = 2×27 = 54.",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 20,
+            "question": "Jika log x = 2 dan log y = 3, maka nilai dari log(xy) adalah?",
+            "answers": {
+                "answer_a": "5",
+                "answer_b": "6",
+                "answer_c": "1",
+                "answer_d": "log 6",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "log(xy) = log x + log y = 2 + 3 = 5.",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 21,
+            "question": "Jika ( f(x) = 2x^2 - 3x + 1 ), maka nilai ( f(2) ) adalah...",
+            "answers": {
+                "answer_a": "3",
+                "answer_b": "5",
+                "answer_c": "7",
+                "answer_d": "9",
+                "answer_e": "11",
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "true",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "f(2) = 2(2)^2 - 3(2) + 1 = 8 - 6 + 1 = 3",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 22,
+            "question": "Turunan pertama dari fungsi ( f(x) = 3x^3 - 5x^2 + 2x - 7 ) adalah...",
+            "answers": {
+                "answer_a": "9x^2 - 10x + 2",
+                "answer_b": "6x^2 - 5x + 2",
+                "answer_c": "9x^2 - 5x + 2",
+                "answer_d": "6x^2 - 10x + 2",
+                "answer_e": "6x^2 - 10x - 2",
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "f'(x) = 9x^2 - 10x + 2",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 23,
+            "question": "Diketahui log(x) = 2 dan log(y) = 3. Maka log(xy) adalah...",
+            "answers": {
+                "answer_a": "5",
+                "answer_b": "6",
+                "answer_c": "1",
+                "answer_d": "9",
+                "answer_e": "8",
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "log(xy) = log(x) + log(y) = 2 + 3 = 5",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 24,
+            "question": "Jika ( sin x = frac{3}{5} ), dan x berada di kuadran I, maka nilai ( cos x ) adalah...",
+            "answers": {
+                "answer_a": "4/5",
+                "answer_b": "5/4",
+                "answer_c": "3/4",
+                "answer_d": "1/2",
+                "answer_e": "2/3",
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Karena ( sin x = frac{3}{5} ), maka segitiga siku-siku dengan sisi depan 3 dan hipotenusa 5, maka sisi samping = 4 (teorema Pythagoras), jadi ( cos x = frac{4}{5} )",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 25,
+            "question": "Jika sebuah barisan aritmetika memiliki suku pertama 5 dan beda 3, maka suku ke-10 adalah...",
+            "answers": {
+                "answer_a": "32",
+                "answer_b": "35",
+                "answer_c": "30",
+                "answer_d": "33",
+                "answer_e": "36",
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Un = a + (n-1)b = 5 + 9*3 = 32",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 26,
+            "question": "Persamaan garis lurus yang melalui titik (2,3) dan (4,7) adalah...",
+            "answers": {
+                "answer_a": "y = 2x - 1",
+                "answer_b": "y = 3x + 1",
+                "answer_c": "y = 2x - 2",
+                "answer_d": "y = x + 1",
+                "answer_e": "y = x + 2",
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Gradien m = (7-3)/(4-2) = 2, pakai rumus y - y1 = m(x - x1), hasilnya y = 2x - 1",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 27,
+            "question": "Fungsi kuadrat ( f(x) = x^2 - 6x + 9 ) memiliki titik minimum di...",
+            "answers": {
+                "answer_a": "(3, 0)",
+                "answer_b": "(3, 9)",
+                "answer_c": "(0, 3)",
+                "answer_d": "(6, 0)",
+                "answer_e": "(3, -9)",
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Titik minimum fungsi kuadrat ax^2 + bx + c adalah di x = -b/2a. Jadi x = 3, f(3) = 0",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 28,
+            "question": "Volume bola dengan jari-jari 7 cm adalah...",
+            "answers": {
+                "answer_a": "1436 cm³",
+                "answer_b": "1440 cm³",
+                "answer_c": "1437.3 cm³",
+                "answer_d": "1443.5 cm³",
+                "answer_e": "1439.5 cm³",
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Volume = 4/3 × π × r³ = 4/3 × 22/7 × 343 = 1436 cm³",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 29,
+            "question": "Jika peluang hujan hari ini adalah 0,3 maka peluang tidak hujan adalah...",
+            "answers": {
+                "answer_a": "0,7",
+                "answer_b": "0,3",
+                "answer_c": "1,3",
+                "answer_d": "0,5",
+                "answer_e": "0,6",
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Peluang tidak hujan = 1 - 0,3 = 0,7",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 30,
+            "question": "Hasil dari limit ( lim_{x to 2} (x^2 - 4)/(x - 2) ) adalah...",
+            "answers": {
+                "answer_a": "4",
+                "answer_b": "2",
+                "answer_c": "6",
+                "answer_d": "8",
+                "answer_e": "5",
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_c_correct": "true",
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "(x^2 - 4)/(x - 2) = (x - 2)(x + 2)/(x - 2) = x + 2 ⇒ 2 + 2 = 4",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 31,
+            "question": "Jika ( log_{2}(x) = 5 ), maka nilai dari x adalah?",
+            "answers": {
+                "answer_a": "25",
+                "answer_b": "10",
+                "answer_c": "32",
+                "answer_d": "16",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "true",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Karena ( log_{2}(x) = 5 ) maka ( x = 2^5 = 32 ).",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 32,
+            "question": "Limit dari ( lim_{x to 0} frac{sin(3x)}{x} ) adalah?",
+            "answers": {
+                "answer_a": "0",
+                "answer_b": "1",
+                "answer_c": "3",
+                "answer_d": "Tidak terdefinisi",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "true",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Gunakan sifat limit: ( lim_{x to 0} frac{sin(ax)}{x} = a ), sehingga hasilnya 3.",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 33,
+            "question": "Turunan pertama dari fungsi ( f(x) = x^3 - 6x^2 + 9x ) adalah?",
+            "answers": {
+                "answer_a": "3x^2 - 12x + 9",
+                "answer_b": "3x^2 - 6x + 9",
+                "answer_c": "x^2 - 12x + 9",
+                "answer_d": "3x^2 - 6x + 3",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Gunakan aturan turunan: f'(x) = 3x² - 12x + 9.",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 34,
+            "question": "Jika determinan matriks ( A = begin{bmatrix}2 & 3  4 & 5end{bmatrix} ), maka ( text{det}(A) ) adalah?",
+            "answers": {
+                "answer_a": "7",
+                "answer_b": "-2",
+                "answer_c": "2",
+                "answer_d": "-7",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "true",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Det(A) = (2×5) - (3×4) = 10 - 12 = -2.",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 35,
+            "question": "Jika ( f(x) = sqrt{x^2 + 1} ), maka turunan dari f(x) adalah?",
+            "answers": {
+                "answer_a": "( frac{x}{sqrt{x^2+1}} )",
+                "answer_b": "( frac{1}{2sqrt{x^2+1}} )",
+                "answer_c": "( frac{2x}{2sqrt{x^2+1}} )",
+                "answer_d": "( frac{1}{sqrt{x^2+1}} )",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Turunan fungsi akar: f'(x) = (1/2√(x²+1)) × 2x = x/√(x²+1).",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 36,
+            "question": "Integral dari ( int 3x^2 dx ) adalah?",
+            "answers": {
+                "answer_a": "x^3 + C",
+                "answer_b": "x^3",
+                "answer_c": "3x^3",
+                "answer_d": "x^2 + C",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Integral dari 3x² adalah x³ + C.",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 37,
+            "question": "Jika ( x + y = 5 ) dan ( x - y = 1 ), maka nilai x dan y adalah?",
+            "answers": {
+                "answer_a": "x=3, y=2",
+                "answer_b": "x=4, y=1",
+                "answer_c": "x=2, y=3",
+                "answer_d": "x=1, y=4",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Tambah kedua persamaan: 2x = 6, x=3. Maka y = 2.",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 38,
+            "question": "Persamaan kuadrat dengan akar 2 dan -3 adalah?",
+            "answers": {
+                "answer_a": "x^2 + x - 6 = 0",
+                "answer_b": "x^2 - x - 6 = 0",
+                "answer_c": "x^2 + x + 6 = 0",
+                "answer_d": "x^2 - x + 6 = 0",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Gunakan rumus: (x - 2)(x + 3) = x² + x - 6.",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 39,
+            "question": "Gradien garis yang melalui titik (2,3) dan (5,9) adalah?",
+            "answers": {
+                "answer_a": "2",
+                "answer_b": "3",
+                "answer_c": "1",
+                "answer_d": "0",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "m = (y2 - y1)/(x2 - x1) = (9 - 3)/(5 - 2) = 6/3 = 2.",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 40,
+            "question": "Peluang muncul angka genap saat melempar dadu adalah?",
+            "answers": {
+                "answer_a": "1/2",
+                "answer_b": "1/3",
+                "answer_c": "2/3",
+                "answer_d": "1/6",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Angka genap: 2, 4, 6 → 3 dari 6 kemungkinan → 3/6 = 1/2.",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 41,
+            "question": "Sebuah fungsi f(x) = 2x^3 − 3x^2 + x − 5. Hitunglah f'(x).",
+            "answers": {
+                "answer_a": "6x^2 − 6x + 1",
+                "answer_b": "6x^2 − 3x + 1",
+                "answer_c": "3x^2 − 6x + 1",
+                "answer_d": "2x^2 − 3x + 1",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Turunan dari f(x) = 2x^3 − 3x^2 + x − 5 adalah f'(x) = 6x^2 − 6x + 1.",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 42,
+            "question": "Diketahui log(x^2 + 1) = 2. Nilai x yang memenuhi adalah?",
+            "answers": {
+                "answer_a": "±2",
+                "answer_b": "±3",
+                "answer_c": "±10",
+                "answer_d": "±√99",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "true",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "log(x^2 + 1) = 2 → x^2 + 1 = 100 → x^2 = 99 → x = ±√99.",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 43,
+            "question": "Jika sin(x) = 3/5 dan x berada di kuadran II, maka nilai tan(x) adalah?",
+            "answers": {
+                "answer_a": "4/3",
+                "answer_b": "−4/3",
+                "answer_c": "3/4",
+                "answer_d": "−3/4",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "true",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Di kuadran II, cos(x) negatif. cos(x) = −4/5 → tan(x) = sin/cos = 3/−4 = −3/4.",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 44,
+            "question": "Diketahui barisan geometri dengan suku ke-1 = 5 dan rasio = 3. Suku ke-5 adalah?",
+            "answers": {
+                "answer_a": "405",
+                "answer_b": "135",
+                "answer_c": "625",
+                "answer_d": "3645",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Un = ar^(n−1) = 5 × 3^4 = 5 × 81 = 405.",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 45,
+            "question": "Persamaan lingkaran dengan pusat (3,−2) dan jari-jari 5 adalah?",
+            "answers": {
+                "answer_a": "(x−3)^2 + (y+2)^2 = 25",
+                "answer_b": "(x+3)^2 + (y−2)^2 = 25",
+                "answer_c": "(x+3)^2 + (y+2)^2 = 25",
+                "answer_d": "(x−3)^2 + (y−2)^2 = 25",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Rumus: (x−a)^2 + (y−b)^2 = r^2 → (x−3)^2 + (y+2)^2 = 25.",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 46,
+            "question": "Turunan kedua dari f(x) = x^4 adalah?",
+            "answers": {
+                "answer_a": "12x^2",
+                "answer_b": "8x^2",
+                "answer_c": "24x",
+                "answer_d": "8x",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "f'(x) = 4x^3 → f''(x) = 12x^2.",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 47,
+            "question": "Suku ke-7 dari barisan aritmetika dengan a = 10 dan b = 4 adalah?",
+            "answers": {
+                "answer_a": "34",
+                "answer_b": "28",
+                "answer_c": "30",
+                "answer_d": "36",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Un = a + (n−1)b = 10 + 6×4 = 34.",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 48,
+            "question": "Hasil dari ∫(4x^3 − 2x + 1) dx adalah?",
+            "answers": {
+                "answer_a": "x^4 − x^2 + x + C",
+                "answer_b": "x^4 − x^2 + C",
+                "answer_c": "x^4 − x^2 − x + C",
+                "answer_d": "x^4 + x^2 + C",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Integral dari 4x^3 adalah x^4, −2x adalah −x^2, 1 adalah x. Jadi x^4 − x^2 + x + C.",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 49,
+            "question": "Diketahui vektor a = (2,3) dan b = (−1,4). Maka hasil a · b (dot product) adalah?",
+            "answers": {
+                "answer_a": "10",
+                "answer_b": "8",
+                "answer_c": "−2",
+                "answer_d": "6",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "a · b = 2×(−1) + 3×4 = −2 + 12 = 10.",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 50,
+            "question": "Jika f(x) = 3^x, maka f '(x) adalah?",
+            "answers": {
+                "answer_a": "3^x ln(3)",
+                "answer_b": "x 3^(x−1)",
+                "answer_c": "ln(3x)",
+                "answer_d": "x ln(3)",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Turunan fungsi eksponensial f(x) = a^x adalah f '(x) = a^x ln(a).",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 51,
+            "question": "Jika f(x) = 2x^2 - 3x + 1, maka f'(x) adalah?",
+            "answers": {
+                "answer_a": "2x - 3",
+                "answer_b": "4x - 3",
+                "answer_c": "4x + 3",
+                "answer_d": "2x + 3",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Turunan dari 2x^2 adalah 4x, turunan dari -3x adalah -3, maka f'(x) = 4x - 3.",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 52,
+            "question": "Jika log₃(x) = 4, maka nilai x adalah?",
+            "answers": {
+                "answer_a": "12",
+                "answer_b": "81",
+                "answer_c": "64",
+                "answer_d": "243",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "true",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "log₃(x) = 4 → x = 3^4 = 81.",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 53,
+            "question": "Jika sin x = 1/2 dan x berada di kuadran II, maka nilai x adalah?",
+            "answers": {
+                "answer_a": "30°",
+                "answer_b": "150°",
+                "answer_c": "120°",
+                "answer_d": "210°",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "true",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "sin 1/2 = 30°, tapi di kuadran II maka x = 180° - 30° = 150°.",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 54,
+            "question": "Jika A = {1, 2, 3, 4} dan B = {2, 4, 6, 8}, maka A ∩ B adalah?",
+            "answers": {
+                "answer_a": "{1, 2, 3, 4, 6, 8}",
+                "answer_b": "{1, 3}",
+                "answer_c": "{2, 4}",
+                "answer_d": "{1, 2}",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "true",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Irisan A dan B adalah elemen yang sama-sama ada di A dan B, yaitu 2 dan 4.",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 55,
+            "question": "Suku ke-n dari barisan aritmatika: 3, 7, 11, ... adalah?",
+            "answers": {
+                "answer_a": "4n + 1",
+                "answer_b": "3n + 4",
+                "answer_c": "4n - 1",
+                "answer_d": "n + 4",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "true",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Bedanya 4, suku ke-n: Un = a + (n-1)b = 3 + (n-1)4 = 4n - 1.",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 56,
+            "question": "Jika cos x = 0, maka nilai x yang memenuhi dalam 0° sampai 360° adalah?",
+            "answers": {
+                "answer_a": "90° dan 270°",
+                "answer_b": "0° dan 180°",
+                "answer_c": "60° dan 300°",
+                "answer_d": "45° dan 225°",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "cos x = 0 saat x = 90° dan 270°.",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 57,
+            "question": "Turunan dari fungsi f(x) = 5x³ - 3x² + 2x - 7 adalah?",
+            "answers": {
+                "answer_a": "15x² - 6x + 2",
+                "answer_b": "15x² + 6x + 2",
+                "answer_c": "10x - 6x + 2",
+                "answer_d": "5x² - 6x + 2",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Turunan: f'(x) = 15x² - 6x + 2.",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 58,
+            "question": "Jika sebuah limas memiliki alas segitiga dan tinggi 6 cm, serta luas alas 20 cm², maka volumenya adalah?",
+            "answers": {
+                "answer_a": "60 cm³",
+                "answer_b": "120 cm³",
+                "answer_c": "40 cm³",
+                "answer_d": "100 cm³",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Volume limas = 1/3 × luas alas × tinggi = 1/3 × 20 × 6 = 40 cm³.",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 59,
+            "question": "Jika determinan matriks 2x2 |a  b| |c  d| adalah ad - bc, maka determinan dari |3  2| |1  4| adalah?",
+            "answers": {
+                "answer_a": "10",
+                "answer_b": "14",
+                "answer_c": "12",
+                "answer_d": "8",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "true",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Determinannya: (3×4) - (2×1) = 12 - 2 = 10.",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 60,
+            "question": "Jika f(x) = √(x² + 1), maka turunan f(x) adalah?",
+            "answers": {
+                "answer_a": "x / √(x² + 1)",
+                "answer_b": "2x / √(x² + 1)",
+                "answer_c": "1 / (2√(x² + 1))",
+                "answer_d": "2 / √(x² + 1)",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "f(x) = √(x² + 1) → f'(x) = (1/2)(x² + 1)^(-1/2) × 2x = x / √(x² + 1).",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 61,
+            "question": "Jika f(x) = x² - 5x + 6, maka nilai minimum dari fungsi tersebut adalah ...",
+            "answers": {
+                "answer_a": "-1.25",
+                "answer_b": "0",
+                "answer_c": "1.25",
+                "answer_d": "2.25",
+                "answer_e": "2.5",
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "true",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Minimum fungsi kuadrat f(x) = x² - 5x + 6 terjadi di x = 5/2, f(5/2) = (25/4) - (25/2) + 6 = 2.25.",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 62,
+            "question": "Diketahui log(x) + log(x-3) = 1. Nilai x yang memenuhi adalah ...",
+            "answers": {
+                "answer_a": "4",
+                "answer_b": "3",
+                "answer_c": "5",
+                "answer_d": "6",
+                "answer_e": "7",
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "log(x(x-3)) = 1 → x² - 3x = 10 → x² - 3x -10 = 0 → (x-5)(x+2) = 0 → x = 5 atau -2 → hanya x=5 valid",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 63,
+            "question": "Limit dari (x² - 9)/(x - 3) saat x mendekati 3 adalah ...",
+            "answers": {
+                "answer_a": "0",
+                "answer_b": "3",
+                "answer_c": "6",
+                "answer_d": "9",
+                "answer_e": "Tidak ada",
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "true",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "(x² - 9)/(x - 3) = (x-3)(x+3)/(x-3) = x+3, saat x→3, limit = 6.",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 64,
+            "question": "Jika sin x = 3/5 dan x di kuadran I, maka cos x adalah ...",
+            "answers": {
+                "answer_a": "4/5",
+                "answer_b": "3/4",
+                "answer_c": "√16/5",
+                "answer_d": "√4/5",
+                "answer_e": "5/4",
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "cos²x = 1 - sin²x = 1 - (9/25) = 16/25 → cos x = 4/5 karena di kuadran I (positif).",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 65,
+            "question": "Integral dari ∫(2x + 3) dx adalah ...",
+            "answers": {
+                "answer_a": "x² + 3x + C",
+                "answer_b": "x² + 3 + C",
+                "answer_c": "2x + 3x + C",
+                "answer_d": "x² + 3 + 3x + C",
+                "answer_e": "2x² + 3 + C",
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "∫(2x + 3) dx = ∫2x dx + ∫3 dx = x² + 3x + C.",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 66,
+            "question": "Gradien garis yang melalui titik (2,3) dan (5,9) adalah ...",
+            "answers": {
+                "answer_a": "2",
+                "answer_b": "3/2",
+                "answer_c": "2/3",
+                "answer_d": "1",
+                "answer_e": "4",
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "m = (9-3)/(5-2) = 6/3 = 2.",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 67,
+            "question": "Turunan pertama dari f(x) = 3x² + 2x - 5 adalah ...",
+            "answers": {
+                "answer_a": "3x + 2",
+                "answer_b": "6x + 2",
+                "answer_c": "6x - 2",
+                "answer_d": "6x",
+                "answer_e": "6x + 1",
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "true",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "f'(x) = d/dx (3x² + 2x - 5) = 6x + 2.",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 68,
+            "question": "Suku ke-5 dari barisan aritmetika dengan a = 3 dan b = 7 adalah ...",
+            "answers": {
+                "answer_a": "17",
+                "answer_b": "19",
+                "answer_c": "21",
+                "answer_d": "23",
+                "answer_e": "25",
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "true",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Un = a + (n-1)×b → U5 = 3 + 4×7 = 31.",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 69,
+            "question": "Volume bola dengan jari-jari 7 cm adalah ...",
+            "answers": {
+                "answer_a": "1437 cm³",
+                "answer_b": "1442 cm³",
+                "answer_c": "1436 cm³",
+                "answer_d": "1437.33 cm³",
+                "answer_e": "1436.75 cm³",
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "true",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "V = 4/3 × π × r³ = 4/3 × 22/7 × 343 ≈ 1437.33 cm³",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 70,
+            "question": "Jumlah semua solusi dari persamaan |2x - 5| = 9 adalah ...",
+            "answers": {
+                "answer_a": "-7 dan 7",
+                "answer_b": "7 dan -2",
+                "answer_c": "2 dan -7",
+                "answer_d": "7 dan -7",
+                "answer_e": "Tidak ada",
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "true",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "|2x - 5| = 9 → 2x - 5 = 9 atau 2x - 5 = -9 → x = 7 atau -2 → jumlah: 5",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 71,
+            "question": "Sebuah bola dijatuhkan dari ketinggian 256 meter. Jika tinggi pantulan bola setengah dari tinggi sebelumnya, berapa total jarak yang ditempuh bola hingga berhenti memantul?",
+            "answers": {
+                "answer_a": "512 meter",
+                "answer_b": "768 meter",
+                "answer_c": "1024 meter",
+                "answer_d": "600 meter",
+                "answer_e": "640 meter",
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "true",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Menggunakan rumus deret geometri tak hingga, total jarak adalah 256 + 2*(256/2)/(1 - 1/2) = 256 + 256*1 = 512 + 512 = 1024 meter.",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 72,
+            "question": "Jika x dan y memenuhi sistem persamaan: 2x + 3y = 12 dan 4x - y = 5, maka nilai dari x + y adalah?",
+            "answers": {
+                "answer_a": "3",
+                "answer_b": "4",
+                "answer_c": "5",
+                "answer_d": "6",
+                "answer_e": "7",
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "true",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Dengan eliminasi/substitusi didapat x = 3, y = 3. Maka x + y = 6.",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 73,
+            "question": "Jika f(x) = x^2 + 3x dan g(x) = 2x - 1, maka (f∘g)(2) adalah?",
+            "answers": {
+                "answer_a": "25",
+                "answer_b": "27",
+                "answer_c": "29",
+                "answer_d": "31",
+                "answer_e": "33",
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "true",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "g(2) = 3, lalu f(3) = 3^2 + 3*3 = 9 + 9 = 18.",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 74,
+            "question": "Turunan pertama dari fungsi f(x) = 3x^3 - 5x^2 + 2x - 7 adalah?",
+            "answers": {
+                "answer_a": "9x^2 - 10x + 2",
+                "answer_b": "9x^2 - 5x + 2",
+                "answer_c": "6x - 10x + 2",
+                "answer_d": "9x^2 + 10x + 2",
+                "answer_e": "6x^2 - 5x",
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "f'(x) = 9x^2 - 10x + 2.",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 75,
+            "question": "Jika diketahui lim(x→2) [(x^2 - 4)/(x - 2)] = ...",
+            "answers": {
+                "answer_a": "2",
+                "answer_b": "4",
+                "answer_c": "6",
+                "answer_d": "8",
+                "answer_e": "10",
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "true",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Pecah menjadi [(x+2)(x-2)]/(x-2) = x+2, lalu ganti x = 2 → 2+2 = 4.",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 76,
+            "question": "Volume bola dengan jari-jari 7 cm adalah?",
+            "answers": {
+                "answer_a": "1436 cm³",
+                "answer_b": "1440 cm³",
+                "answer_c": "1437.33 cm³",
+                "answer_d": "1500 cm³",
+                "answer_e": "1470 cm³",
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "V = 4/3 × π × r^3 = 4/3 × 22/7 × 343 = 1436 cm³.",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 77,
+            "question": "Persamaan garis lurus yang melalui titik (2,3) dan bergradien 4 adalah?",
+            "answers": {
+                "answer_a": "y = 4x - 5",
+                "answer_b": "y = 4x + 5",
+                "answer_c": "y = 4x + 3",
+                "answer_d": "y = 4x - 3",
+                "answer_e": "y = 4x + 1",
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Gunakan y - y1 = m(x - x1), maka y - 3 = 4(x - 2) → y = 4x - 5.",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 78,
+            "question": "Bentuk sederhana dari √(50) - √(2) adalah?",
+            "answers": {
+                "answer_a": "5√2 - √2",
+                "answer_b": "4√2",
+                "answer_c": "3√2",
+                "answer_d": "2√2",
+                "answer_e": "√48",
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "√50 = √(25×2) = 5√2, maka 5√2 - √2 = 4√2.",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 79,
+            "question": "Hasil integral dari ∫2x dx adalah?",
+            "answers": {
+                "answer_a": "x^2 + C",
+                "answer_b": "2x^2 + C",
+                "answer_c": "x + C",
+                "answer_d": "x^2",
+                "answer_e": "x + x + C",
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Integral dari 2x adalah x^2 + C.",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 80,
+            "question": "Sebuah trapesium memiliki panjang sisi sejajar 10 cm dan 6 cm, serta tinggi 5 cm. Luas trapesium adalah?",
+            "answers": {
+                "answer_a": "40 cm²",
+                "answer_b": "45 cm²",
+                "answer_c": "50 cm²",
+                "answer_d": "55 cm²",
+                "answer_e": "60 cm²",
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "true",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Luas = 1/2 × (a + b) × t = 1/2 × (10 + 6) × 5 = 40 cm².",
+            "tags": [{ "name": "Matematika" }],
+            "category": "Matematika",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 91,
+            "question": "Apa yang dimaksud dengan teks eksposisi?",
+            "answers": {
+                "answer_a": "Teks yang menceritakan kejadian masa lalu",
+                "answer_b": "Teks yang berisi ajakan atau imbauan",
+                "answer_c": "Teks yang menjelaskan suatu pendapat atau argumen",
+                "answer_d": "Teks yang mengandung unsur hiburan",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "true",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Teks eksposisi menjelaskan suatu gagasan atau pendapat disertai argumen.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 92,
+            "question": "Tujuan utama teks persuasi adalah?",
+            "answers": {
+                "answer_a": "Menggambarkan suatu kejadian",
+                "answer_b": "Membujuk pembaca untuk melakukan sesuatu",
+                "answer_c": "Menghibur pembaca",
+                "answer_d": "Memberikan informasi ilmiah",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "true",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Teks persuasi bertujuan membujuk atau mempengaruhi pembaca.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 93,
+            "question": "Apa ciri utama dari teks laporan hasil observasi?",
+            "answers": {
+                "answer_a": "Bersifat imajinatif",
+                "answer_b": "Berisi pendapat pribadi",
+                "answer_c": "Bersifat objektif dan faktual",
+                "answer_d": "Mengandung konflik",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "true",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Teks laporan hasil observasi harus objektif dan berdasarkan fakta.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 94,
+            "question": "Salah satu struktur teks eksposisi adalah?",
+            "answers": {
+                "answer_a": "Komplikasi",
+                "answer_b": "Orientasi",
+                "answer_c": "Argumentasi",
+                "answer_d": "Resolusi",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "true",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Argumentasi merupakan bagian utama dalam teks eksposisi untuk menguatkan pendapat.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 95,
+            "question": "Sinonim dari kata 'elok' adalah?",
+            "answers": {
+                "answer_a": "Buruk",
+                "answer_b": "Cantik",
+                "answer_c": "Gagah",
+                "answer_d": "Angkuh",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "true",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "'Elok' berarti cantik atau indah.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 96,
+            "question": "Makna konotatif dari kata 'ular' dalam kalimat 'Dia seperti ular berbisa' adalah?",
+            "answers": {
+                "answer_a": "Binatang melata",
+                "answer_b": "Orang yang licik",
+                "answer_c": "Orang yang cepat",
+                "answer_d": "Orang yang keras kepala",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "true",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Dalam makna konotatif, 'ular berbisa' berarti orang yang licik dan berbahaya.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 97,
+            "question": "Teks prosedur kompleks biasanya digunakan untuk?",
+            "answers": {
+                "answer_a": "Menceritakan legenda",
+                "answer_b": "Memberi petunjuk langkah-langkah",
+                "answer_c": "Menggambarkan tokoh",
+                "answer_d": "Menjelaskan konflik sosial",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "true",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Teks prosedur kompleks menjelaskan langkah-langkah melakukan sesuatu.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 98,
+            "question": "Paragraf deduktif adalah paragraf yang kalimat utamanya terletak di?",
+            "answers": {
+                "answer_a": "Akhir paragraf",
+                "answer_b": "Tengah paragraf",
+                "answer_c": "Awal paragraf",
+                "answer_d": "Awal dan akhir paragraf",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "true",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Paragraf deduktif memiliki kalimat utama di awal paragraf.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 99,
+            "question": "Yang bukan termasuk ciri teks editorial adalah?",
+            "answers": {
+                "answer_a": "Mengandung opini redaksi",
+                "answer_b": "Bersifat subjektif",
+                "answer_c": "Bertujuan menghibur",
+                "answer_d": "Berisi tanggapan terhadap isu",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "true",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Teks editorial tidak bertujuan menghibur, tetapi mengkritisi isu.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 100,
+            "question": "Kalimat yang menggunakan ejaan tidak tepat adalah?",
+            "answers": {
+                "answer_a": "Ia pergi ke sekolah setiap hari.",
+                "answer_b": "Mereka mempersiapkan ulangan matematika.",
+                "answer_c": "Dia membaca buku sejarah.",
+                "answer_d": "Mereka menghapal pelajaran dengan giat.",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "true",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Kata 'menghapal' seharusnya 'menghafal'.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 101,
+            "question": "Cermati kalimat berikut:\n\"Kami sangat berharap agar Anda dapat hadir.\"\nPerbaikan kalimat tersebut agar efektif adalah...",
+            "answers": {
+                "answer_a": "Kami berharap Anda dapat hadir.",
+                "answer_b": "Harapan kami sangat besar Anda hadir.",
+                "answer_c": "Kami mengharapkan agar Anda bisa hadir.",
+                "answer_d": "Kami ingin agar Anda benar-benar hadir.",
+                "answer_e": "Harapan besar bagi kami Anda hadir."
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false"
+            },
+            "explanation": "Kalimat efektif menghindari kata-kata yang mubazir seperti 'sangat berharap agar'.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 102,
+            "question": "Perhatikan kalimat berikut:\n\"Dalam upacara itu, para siswa mengenakan seragam sekolah dan topi.\"\nKata yang tidak tepat dalam kalimat tersebut adalah...",
+            "answers": {
+                "answer_a": "upacara",
+                "answer_b": "para",
+                "answer_c": "mengenakan",
+                "answer_d": "topi",
+                "answer_e": "seragam"
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "true",
+                "answer_e_correct": "false"
+            },
+            "explanation": "Kata 'mengenakan' tidak cocok untuk benda kecil seperti topi, seharusnya 'memakai'.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 103,
+            "question": "Kalimat berikut yang merupakan opini adalah...",
+            "answers": {
+                "answer_a": "Air mendidih pada suhu 100°C.",
+                "answer_b": "Ibu kota Indonesia adalah Jakarta.",
+                "answer_c": "Belajar setiap hari membuat kita pandai.",
+                "answer_d": "Bumi berputar mengelilingi matahari.",
+                "answer_e": "Indonesia memiliki ribuan pulau."
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "true",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false"
+            },
+            "explanation": "Pernyataan 'membuat kita pandai' bersifat subjektif, sehingga tergolong opini.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 104,
+            "question": "Makna kata 'prioritas' dalam kalimat:\n\"Pendidikan menjadi prioritas utama dalam pembangunan manusia.\"\nadalah...",
+            "answers": {
+                "answer_a": "hal yang dibenci",
+                "answer_b": "hal yang diutamakan",
+                "answer_c": "hal yang dikhawatirkan",
+                "answer_d": "hal yang dicurigai",
+                "answer_e": "hal yang ditunda"
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "true",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false"
+            },
+            "explanation": "Prioritas artinya sesuatu yang didahulukan atau diutamakan.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 105,
+            "question": "Kalimat berikut ini yang termasuk kalimat pasif adalah...",
+            "answers": {
+                "answer_a": "Guru sedang mengajar di kelas.",
+                "answer_b": "Mereka menyelesaikan tugas dengan baik.",
+                "answer_c": "Surat itu ditulis oleh Dina.",
+                "answer_d": "Saya membaca buku sejarah.",
+                "answer_e": "Siswa itu membeli alat tulis."
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "true",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false"
+            },
+            "explanation": "Kalimat pasif ditandai dengan objek sebagai subjek, seperti 'ditulis oleh'.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 106,
+            "question": "Sinonim kata 'cerdas' dalam kalimat:\n\"Anak itu sangat cerdas dalam menyelesaikan soal-soal sulit.\"\nadalah...",
+            "answers": {
+                "answer_a": "bodoh",
+                "answer_b": "cepat",
+                "answer_c": "pintar",
+                "answer_d": "tinggi",
+                "answer_e": "besar"
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "true",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false"
+            },
+            "explanation": "'Cerdas' sinonimnya adalah 'pintar'.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 107,
+            "question": "Perhatikan kutipan berikut:\n\"Karena hujan deras, jalanan menjadi banjir.\"\nHubungan sebab-akibat dalam kalimat tersebut ditunjukkan oleh kata...",
+            "answers": {
+                "answer_a": "karena",
+                "answer_b": "menjadi",
+                "answer_c": "jalanan",
+                "answer_d": "banjir",
+                "answer_e": "deras"
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false"
+            },
+            "explanation": "Kata 'karena' menyatakan hubungan sebab dalam kalimat tersebut.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 108,
+            "question": "Bacalah kalimat berikut:\n\"Ayah membeli buku, pena, dan tas di toko.\"\nKalimat tersebut termasuk jenis kalimat...",
+            "answers": {
+                "answer_a": "majemuk bertingkat",
+                "answer_b": "majemuk setara",
+                "answer_c": "majemuk kompleks",
+                "answer_d": "simpleks",
+                "answer_e": "majemuk campuran"
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "true",
+                "answer_e_correct": "false"
+            },
+            "explanation": "Kalimat tersebut hanya memiliki satu klausa, sehingga tergolong simpleks.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 109,
+            "question": "Kalimat yang termasuk kalimat ajakan adalah...",
+            "answers": {
+                "answer_a": "Kamu harus datang ke sekolah tepat waktu.",
+                "answer_b": "Mari kita menjaga kebersihan lingkungan.",
+                "answer_c": "Mereka bermain sepak bola di lapangan.",
+                "answer_d": "Ibu sedang memasak di dapur.",
+                "answer_e": "Dia pergi ke pasar membeli sayur."
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "true",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false"
+            },
+            "explanation": "Kalimat ajakan biasanya diawali dengan 'mari' atau 'ayo'.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 110,
+            "question": "Kalimat berikut yang merupakan kalimat tidak baku adalah...",
+            "answers": {
+                "answer_a": "Saya tidak tahu akan hal itu.",
+                "answer_b": "Dia sedang menyuci pakaian di rumah.",
+                "answer_c": "Mereka pergi ke sekolah pagi-pagi.",
+                "answer_d": "Kami telah menyelesaikan tugas itu.",
+                "answer_e": "Kita harus menjaga kesehatan."
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "true",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false"
+            },
+            "explanation": "Kata 'menyuci' tidak baku, seharusnya 'mencuci'.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 111,
+            "question": "Tujuan utama dari teks eksplanasi adalah...",
+            "answers": {
+                "answer_a": "Menghibur pembaca",
+                "answer_b": "Mendeskripsikan objek",
+                "answer_c": "Menjelaskan proses atau fenomena",
+                "answer_d": "Mempengaruhi opini pembaca",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "true",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Teks eksplanasi bertujuan menjelaskan proses atau fenomena alam maupun sosial.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 112,
+            "question": "Yang merupakan struktur teks tanggapan kritis adalah...",
+            "answers": {
+                "answer_a": "Evaluasi, deskripsi teks, penegasan ulang",
+                "answer_b": "Orientasi, komplikasi, resolusi",
+                "answer_c": "Pendahuluan, isi, penutup",
+                "answer_d": "Identifikasi, klasifikasi, deskripsi manfaat",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Struktur teks tanggapan kritis meliputi evaluasi, deskripsi teks, dan penegasan ulang.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 113,
+            "question": "Kalimat manakah yang termasuk kalimat opini?",
+            "answers": {
+                "answer_a": "Air mendidih pada suhu 100°C",
+                "answer_b": "Indonesia terletak di Asia Tenggara",
+                "answer_c": "Menurut saya, film itu sangat membosankan",
+                "answer_d": "Matahari terbit dari timur",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "true",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Opini bersifat subjektif, seperti 'menurut saya, film itu sangat membosankan'.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 114,
+            "question": "Makna konotatif dari kata 'ular' dalam kalimat 'dia seperti ular' adalah...",
+            "answers": {
+                "answer_a": "Licik",
+                "answer_b": "Panjang",
+                "answer_c": "Melata",
+                "answer_d": "Mengerikan",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Kata 'ular' sering digunakan secara konotatif untuk menggambarkan seseorang yang licik.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 115,
+            "question": "Apa yang dimaksud dengan paragraf deduktif?",
+            "answers": {
+                "answer_a": "Gagasan utama di akhir paragraf",
+                "answer_b": "Gagasan utama di awal paragraf",
+                "answer_c": "Gagasan utama di tengah paragraf",
+                "answer_d": "Tidak memiliki gagasan utama",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "true",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Paragraf deduktif dimulai dengan kalimat utama, kemudian diikuti oleh kalimat penjelas.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 116,
+            "question": "Ciri utama teks prosedur adalah...",
+            "answers": {
+                "answer_a": "Menggambarkan sesuatu secara detail",
+                "answer_b": "Memberi petunjuk langkah-langkah",
+                "answer_c": "Menjelaskan sebab akibat",
+                "answer_d": "Menyampaikan pendapat penulis",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "true",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Teks prosedur bertujuan memberikan petunjuk langkah demi langkah dalam melakukan sesuatu.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 117,
+            "question": "Kalimat manakah yang bersifat imperatif?",
+            "answers": {
+                "answer_a": "Apakah kamu sudah makan?",
+                "answer_b": "Kita akan pergi ke taman sore ini",
+                "answer_c": "Tolong ambilkan buku itu!",
+                "answer_d": "Dia sedang belajar",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "true",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Kalimat imperatif berisi perintah atau permintaan, seperti 'Tolong ambilkan buku itu!'",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 118,
+            "question": "Jenis kata ulang pada kata 'lari-lari kecil' adalah...",
+            "answers": {
+                "answer_a": "Reduplikasi murni",
+                "answer_b": "Reduplikasi berimbuhan",
+                "answer_c": "Reduplikasi semu",
+                "answer_d": "Reduplikasi sebagian",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "'Lari-lari kecil' adalah contoh reduplikasi murni karena mengulang kata dasar.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 119,
+            "question": "Manakah yang termasuk kalimat tidak efektif?",
+            "answers": {
+                "answer_a": "Dia pergi ke pasar untuk membeli sayur.",
+                "answer_b": "Saya sangat suka sekali dengan makanan ini.",
+                "answer_c": "Kami akan belajar bersama sore ini.",
+                "answer_d": "Anak itu menangis karena jatuh.",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "true",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Kalimat 'sangat suka sekali' bersifat pleonastis, sehingga tidak efektif.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 120,
+            "question": "Teks editorial biasanya terdapat dalam...",
+            "answers": {
+                "answer_a": "Cerpen",
+                "answer_b": "Berita utama",
+                "answer_c": "Majalah anak-anak",
+                "answer_d": "Halaman opini surat kabar",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "true",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Teks editorial biasanya dimuat pada halaman opini surat kabar.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 121,
+            "question": "Apa makna konotatif dari kata 'api cemburu' dalam kalimat 'Api cemburu membakar hatinya melihat kekasihnya bersama orang lain'?",
+            "answers": {
+                "answer_a": "Kemarahan yang membara",
+                "answer_b": "Panas yang menyakitkan",
+                "answer_c": "Perasaan tidak suka",
+                "answer_d": "Semangat untuk berjuang",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Makna konotatif dari 'api cemburu' adalah kemarahan yang membara.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 122,
+            "question": "Apa fungsi kutipan langsung dalam penulisan karya ilmiah?",
+            "answers": {
+                "answer_a": "Sebagai hiasan kalimat",
+                "answer_b": "Sebagai bukti pendukung argumen",
+                "answer_c": "Sebagai pengisi paragraf",
+                "answer_d": "Sebagai pengantar topik",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "true",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Kutipan langsung digunakan untuk memperkuat argumen dengan bukti nyata.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 123,
+            "question": "Dalam struktur teks eksplanasi, bagian yang menjelaskan sebab akibat dari fenomena adalah?",
+            "answers": {
+                "answer_a": "Pernyataan umum",
+                "answer_b": "Interpretasi",
+                "answer_c": "Deretan penjelas",
+                "answer_d": "Simpulan",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "true",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Deretan penjelas memuat sebab akibat dalam teks eksplanasi.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 124,
+            "question": "Apa perbedaan utama antara cerpen dan novel?",
+            "answers": {
+                "answer_a": "Cerpen lebih rumit konfliknya",
+                "answer_b": "Novel hanya untuk anak-anak",
+                "answer_c": "Cerpen memiliki alur kompleks",
+                "answer_d": "Cerpen lebih pendek dan fokus",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "true",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Cerpen bersifat singkat dan langsung pada fokus cerita.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 125,
+            "question": "Kalimat yang tidak efektif disebut juga sebagai kalimat yang?",
+            "answers": {
+                "answer_a": "Mengandung makna ganda",
+                "answer_b": "Terlalu panjang",
+                "answer_c": "Tidak komunikatif",
+                "answer_d": "Bersifat ambigu",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "true",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Kalimat tidak efektif tidak menyampaikan pesan secara komunikatif.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 126,
+            "question": "Dalam puisi, kata-kata digunakan secara kiasan untuk membentuk?",
+            "answers": {
+                "answer_a": "Struktur wacana",
+                "answer_b": "Makna literal",
+                "answer_c": "Citraan atau imaji",
+                "answer_d": "Logika argumen",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "true",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Puisi menggunakan kata-kata kiasan untuk membangun imaji atau citraan.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 127,
+            "question": "Apa makna dari idiom 'buah tangan' dalam kalimat: 'Ia membawa buah tangan dari luar kota'?",
+            "answers": {
+                "answer_a": "Buah segar",
+                "answer_b": "Hadiah atau oleh-oleh",
+                "answer_c": "Tangan yang membawa buah",
+                "answer_d": "Barang yang mahal",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "true",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Idiom 'buah tangan' berarti oleh-oleh.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 128,
+            "question": "Ciri utama bahasa dalam teks berita adalah?",
+            "answers": {
+                "answer_a": "Figuratif dan ekspresif",
+                "answer_b": "Subjektif dan deskriptif",
+                "answer_c": "Informatif dan lugas",
+                "answer_d": "Emosional dan persuasif",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "true",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Teks berita menggunakan bahasa yang informatif dan lugas.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 129,
+            "question": "Kalimat majemuk setara ditandai dengan konjungsi?",
+            "answers": {
+                "answer_a": "Sehingga",
+                "answer_b": "Karena",
+                "answer_c": "Namun",
+                "answer_d": "Ketika",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "true",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Konjungsi 'namun' menyatakan hubungan setara antara dua kalimat.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 130,
+            "question": "Tujuan dari teks persuasi adalah untuk?",
+            "answers": {
+                "answer_a": "Menghibur pembaca",
+                "answer_b": "Memberi informasi",
+                "answer_c": "Mengajak atau mempengaruhi",
+                "answer_d": "Menceritakan kejadian",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "true",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Teks persuasi bertujuan mempengaruhi pembaca agar mengikuti ajakan penulis.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 231,
+            "question": "Makna denotatif dari kata 'tangan' dalam kalimat 'Ia bekerja dengan tangan sendiri' adalah?",
+            "answers": {
+                "answer_a": "Kekuatan",
+                "answer_b": "Tenaga kerja",
+                "answer_c": "Bagian tubuh dari bahu hingga jari",
+                "answer_d": "Kemampuan",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "true",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Makna denotatif adalah makna sebenarnya, yaitu bagian tubuh dari bahu hingga jari.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 232,
+            "question": "Kalimat yang mengandung majas personifikasi adalah?",
+            "answers": {
+                "answer_a": "Batu itu besar dan keras.",
+                "answer_b": "Langit menangis seharian.",
+                "answer_c": "Ia cepat seperti kilat.",
+                "answer_d": "Wajahnya secantik bidadari.",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "true",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Personifikasi memberikan sifat manusia pada benda mati, seperti langit yang menangis.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 233,
+            "question": "Paragraf yang memiliki ide pokok di awal disebut?",
+            "answers": {
+                "answer_a": "Paragraf campuran",
+                "answer_b": "Paragraf deduktif",
+                "answer_c": "Paragraf induktif",
+                "answer_d": "Paragraf naratif",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "true",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Paragraf deduktif memiliki kalimat utama di awal paragraf.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 234,
+            "question": "Syarat kalimat efektif adalah, kecuali?",
+            "answers": {
+                "answer_a": "Kesejajaran",
+                "answer_b": "Keparalelan",
+                "answer_c": "Ketegasan",
+                "answer_d": "Keindahan",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "true",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Keindahan bukan syarat kalimat efektif, melainkan gaya bahasa.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 235,
+            "question": "Apa yang dimaksud dengan konjungsi kausalitas?",
+            "answers": {
+                "answer_a": "Kata hubung sebab-akibat",
+                "answer_b": "Kata ganti",
+                "answer_c": "Kata depan",
+                "answer_d": "Kata seru",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Konjungsi kausalitas menjelaskan hubungan sebab dan akibat.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 236,
+            "question": "Jenis paragraf yang bertujuan memengaruhi pembaca disebut?",
+            "answers": {
+                "answer_a": "Deskripsi",
+                "answer_b": "Narasi",
+                "answer_c": "Eksposisi",
+                "answer_d": "Persuasi",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "true",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Paragraf persuasi bertujuan membujuk atau memengaruhi pembaca.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 237,
+            "question": "Sinonim dari kata 'abstrak' dalam konteks ilmiah adalah?",
+            "answers": {
+                "answer_a": "Ringkasan",
+                "answer_b": "Konsep",
+                "answer_c": "Bayangan",
+                "answer_d": "Rangkuman cerita",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Abstrak dalam karya ilmiah merujuk pada ringkasan isi.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 238,
+            "question": "Dalam sebuah teks eksplanasi, struktur yang berisi uraian sebab akibat disebut?",
+            "answers": {
+                "answer_a": "Pernyataan umum",
+                "answer_b": "Deretan penjelas",
+                "answer_c": "Interpretasi",
+                "answer_d": "Koda",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "true",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Deretan penjelas menjelaskan proses sebab-akibat dalam teks eksplanasi.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 239,
+            "question": "Kalimat tidak efektif ditandai oleh?",
+            "answers": {
+                "answer_a": "Penggunaan ejaan yang benar",
+                "answer_b": "Penggunaan kata baku",
+                "answer_c": "Pengulangan subjek yang tidak perlu",
+                "answer_d": "Kalimat singkat dan jelas",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "true",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Pengulangan subjek membuat kalimat tidak efektif.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 240,
+            "question": "Kalimat definisi dalam paragraf ilmiah biasanya terdapat pada?",
+            "answers": {
+                "answer_a": "Kalimat penjelas",
+                "answer_b": "Kalimat kesimpulan",
+                "answer_c": "Kalimat pembuka",
+                "answer_d": "Kalimat perbandingan",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "true",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Kalimat definisi biasanya diletakkan di awal paragraf untuk memberi pemahaman awal.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 241,
+            "question": "Apa fungsi penggunaan gaya bahasa hiperbola dalam sebuah teks sastra?",
+            "answers": {
+                "answer_a": "Untuk membuat cerita lebih realistis",
+                "answer_b": "Untuk menyampaikan sindiran secara halus",
+                "answer_c": "Untuk menekankan suatu hal secara berlebihan",
+                "answer_d": "Untuk menggambarkan suasana secara singkat",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "true",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Gaya bahasa hiperbola digunakan untuk memberikan penekanan dengan cara melebih-lebihkan sesuatu.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 242,
+            "question": "Apa yang dimaksud dengan konjungsi temporal dalam teks prosedur?",
+            "answers": {
+                "answer_a": "Kata hubung yang menunjukkan waktu",
+                "answer_b": "Kata hubung yang menunjukkan sebab-akibat",
+                "answer_c": "Kata hubung yang menunjukkan perbandingan",
+                "answer_d": "Kata hubung yang menunjukkan pilihan",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Konjungsi temporal adalah kata hubung yang menunjukkan hubungan waktu antar kejadian.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 243,
+            "question": "Dalam struktur teks cerpen, konflik biasanya terdapat pada bagian?",
+            "answers": {
+                "answer_a": "Orientasi",
+                "answer_b": "Komplikasi",
+                "answer_c": "Resolusi",
+                "answer_d": "Koda",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "true",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Komplikasi adalah bagian yang berisi konflik atau permasalahan dalam cerita.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 244,
+            "question": "Ciri utama teks eksposisi yang membedakannya dengan teks lain adalah?",
+            "answers": {
+                "answer_a": "Mengandung konflik",
+                "answer_b": "Bersifat imajinatif",
+                "answer_c": "Menyampaikan pendapat dan argumen",
+                "answer_d": "Mengandung unsur tokoh dan latar",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "true",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Teks eksposisi digunakan untuk mengemukakan pendapat yang disertai alasan atau argumen.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 245,
+            "question": "Tujuan utama dari penulisan teks ulasan adalah?",
+            "answers": {
+                "answer_a": "Mempromosikan sebuah karya",
+                "answer_b": "Menjelaskan tahapan kerja",
+                "answer_c": "Memberi penilaian terhadap suatu karya",
+                "answer_d": "Menceritakan pengalaman pribadi",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "true",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Teks ulasan bertujuan untuk memberi penilaian terhadap sebuah karya seperti film, buku, dan lainnya.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 246,
+            "question": "Dalam teks negosiasi, pihak-pihak yang terlibat biasanya memiliki kepentingan?",
+            "answers": {
+                "answer_a": "Yang sama",
+                "answer_b": "Yang bertentangan",
+                "answer_c": "Yang tidak berkaitan",
+                "answer_d": "Yang searah",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "true",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Negosiasi melibatkan dua pihak atau lebih yang memiliki kepentingan berbeda dan perlu mencapai kesepakatan.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 247,
+            "question": "Gagasan utama sebuah paragraf biasanya terletak di?",
+            "answers": {
+                "answer_a": "Awal paragraf",
+                "answer_b": "Akhir paragraf",
+                "answer_c": "Awal dan akhir paragraf",
+                "answer_d": "Seluruh isi paragraf",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Secara umum, gagasan utama terletak di awal paragraf, meskipun bisa juga di akhir atau campuran tergantung jenis paragraf.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 248,
+            "question": "Kalimat \"Dia bagai bintang di tengah malam\" mengandung gaya bahasa?",
+            "answers": {
+                "answer_a": "Metafora",
+                "answer_b": "Personifikasi",
+                "answer_c": "Simile",
+                "answer_d": "Hiperbola",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "true",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Kalimat tersebut menggunakan kata \"bagai\" yang menunjukkan perbandingan, termasuk dalam simile.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 249,
+            "question": "Kalimat tidak langsung dari 'Budi berkata, “Saya akan datang besok.”' adalah?",
+            "answers": {
+                "answer_a": "Budi berkata bahwa ia akan datang kemarin",
+                "answer_b": "Budi berkata bahwa ia akan datang esok hari",
+                "answer_c": "Budi mengatakan ia akan datang hari ini",
+                "answer_d": "Budi berkata bahwa ia akan datang nanti malam",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "true",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Kalimat tidak langsung mengubah waktu 'besok' menjadi 'esok hari' dengan perubahan struktur kalimat.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 250,
+            "question": "Makna konotasi dari kata 'tangan besi' dalam kalimat 'Dia memimpin dengan tangan besi' adalah?",
+            "answers": {
+                "answer_a": "Memiliki tangan kuat",
+                "answer_b": "Memerintah secara tegas dan keras",
+                "answer_c": "Suka bertengkar",
+                "answer_d": "Tidak memiliki belas kasihan",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "true",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "‘Tangan besi’ bermakna kepemimpinan yang keras, otoriter, atau sangat tegas.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 251,
+            "question": "Apa fungsi dari konjungsi kausal dalam kalimat kompleks?",
+            "answers": {
+                "answer_a": "Menghubungkan dua peristiwa yang bertentangan",
+                "answer_b": "Menunjukkan sebab-akibat",
+                "answer_c": "Menunjukkan waktu kejadian",
+                "answer_d": "Menjelaskan tujuan",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "true",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Konjungsi kausal digunakan untuk menunjukkan hubungan sebab-akibat.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 252,
+            "question": "Ciri utama dari teks eksposisi adalah...",
+            "answers": {
+                "answer_a": "Menghibur pembaca",
+                "answer_b": "Menggambarkan peristiwa",
+                "answer_c": "Menjelaskan informasi dengan argumen yang logis",
+                "answer_d": "Menceritakan kejadian masa lalu",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "true",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Teks eksposisi bertujuan untuk menyampaikan informasi disertai argumen logis.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 253,
+            "question": "Manakah pernyataan yang paling tepat mengenai teks tanggapan kritis?",
+            "answers": {
+                "answer_a": "Selalu bersifat negatif",
+                "answer_b": "Tidak membutuhkan data",
+                "answer_c": "Mengandung penilaian dan alasan",
+                "answer_d": "Berisi cerita pengalaman pribadi",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "true",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Teks tanggapan kritis memuat penilaian terhadap suatu hal dan disertai alasan yang mendukung.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 254,
+            "question": "Struktur teks cerpen yang tepat adalah...",
+            "answers": {
+                "answer_a": "Orientasi, komplikasi, evaluasi, resolusi, koda",
+                "answer_b": "Identifikasi, deskripsi bagian",
+                "answer_c": "Pernyataan umum, deretan penjelas",
+                "answer_d": "Argumentasi, simpulan",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "true",
+                "answer_b_correct": "false",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Struktur cerpen terdiri dari orientasi, komplikasi, evaluasi, resolusi, dan koda.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 255,
+            "question": "Yang bukan merupakan ciri teks anekdot adalah...",
+            "answers": {
+                "answer_a": "Bersifat menghibur",
+                "answer_b": "Mengandung pesan moral",
+                "answer_c": "Berisi data statistik",
+                "answer_d": "Memiliki unsur humor",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "false",
+                "answer_c_correct": "true",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Teks anekdot bersifat menghibur dan mengandung pesan moral, tetapi tidak menyajikan data statistik.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 256,
+            "question": "Makna konotatif dari kata 'ular' dalam kalimat 'Ia licik seperti ular' adalah...",
+            "answers": {
+                "answer_a": "Bergerak cepat",
+                "answer_b": "Licik atau penuh tipu daya",
+                "answer_c": "Berbisa",
+                "answer_d": "Pemalu",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "true",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Kata 'ular' dalam konteks tersebut bermakna licik atau penuh tipu daya.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 257,
+            "question": "Kalimat manakah yang menggunakan majas hiperbola?",
+            "answers": {
+                "answer_a": "Langkahnya ringan seperti kapas",
+                "answer_b": "Air mata membanjiri pipinya",
+                "answer_c": "Ia diam seribu bahasa",
+                "answer_d": "Langit seperti cemberut",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "true",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Kalimat 'Air mata membanjiri pipinya' merupakan majas hiperbola karena melebih-lebihkan kenyataan.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 258,
+            "question": "Teks yang menjelaskan proses atau cara kerja sesuatu disebut...",
+            "answers": {
+                "answer_a": "Teks eksplanasi",
+                "answer_b": "Teks prosedur",
+                "answer_c": "Teks eksposisi",
+                "answer_d": "Teks anekdot",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "true",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Teks prosedur berisi langkah-langkah atau cara melakukan sesuatu.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 259,
+            "question": "Kalimat efektif adalah kalimat yang...",
+            "answers": {
+                "answer_a": "Bertele-tele",
+                "answer_b": "Memiliki subjek dan predikat yang jelas",
+                "answer_c": "Mengandung banyak kata sifat",
+                "answer_d": "Panjang dan rinci",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "true",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Kalimat efektif harus memiliki subjek dan predikat yang jelas serta tidak berbelit-belit.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 260,
+            "question": "Paragraf deduktif ditandai dengan kalimat utama yang terletak di...",
+            "answers": {
+                "answer_a": "Akhir paragraf",
+                "answer_b": "Awal paragraf",
+                "answer_c": "Tengah paragraf",
+                "answer_d": "Tidak ada kalimat utama",
+                "answer_e": null,
+                "answer_f": null
+            },
+            "multiple_correct_answers": "false",
+            "correct_answers": {
+                "answer_a_correct": "false",
+                "answer_b_correct": "true",
+                "answer_c_correct": "false",
+                "answer_d_correct": "false",
+                "answer_e_correct": "false",
+                "answer_f_correct": "false"
+            },
+            "explanation": "Kalimat utama pada paragraf deduktif berada di awal paragraf.",
+            "tags": [{ "name": "Bahasa Indonesia" }],
+            "category": "Bahasa Indonesia",
+            "difficulty": "Hard"
+        }
+
+    ]
